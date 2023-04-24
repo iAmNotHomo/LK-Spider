@@ -20,8 +20,8 @@ BOOK_NODE = {
 '''
 
 LOGIN_INFO = {
-    'username': '974689443@qq.com',
-    'password': 'D142857ing'
+    'username': '',
+    'password': ''
 }
 
 # 并发数量
